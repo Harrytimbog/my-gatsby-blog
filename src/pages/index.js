@@ -10,7 +10,7 @@ const IndexPage = () => {
       <p>This is my Blog built with Gatsby!!!</p>
       <StaticImage
         alt="The city of Rio de Janeiro"
-        src="../images/profile.jpg"
+        src="../images/tim_kam.jpg"
       />
     </Layout>
   );
