@@ -14,6 +14,7 @@ const AboutPage = () => {
         Hi there! My name is Timi and I am a software developer from Nigeria. I
         love soccer, coding and comedy. They call me the Lone wolf for a reason
       </p>
+
       <StaticImage
         alt="A picture of Timilehin Arigbede"
         src="../images/profile.jpg"
