@@ -2,6 +2,10 @@
 import * as React from "react";
 import Layout from "../components/layout";
 import { StaticImage } from "gatsby-plugin-image";
+import {
+  spaceImages
+} from "./index.module.css";
+
 
 // Step 2: Define your component
 const IndexPage = () => {
@@ -9,8 +13,15 @@ const IndexPage = () => {
     <Layout pageTitle="Home Page">
       <p>This is my Blog built with Gatsby!!!</p>
       <StaticImage
-        alt="The city of Rio de Janeiro"
+        alt="A picture of coding"
         src="../images/tim_kam.jpg"
+        className={spaceImages}
+      />
+
+      <StaticImage
+        alt="A picture of coding"
+        src="../images/coder.jpg"
+        className={spaceImages}
       />
     </Layout>
   );
