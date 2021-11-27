@@ -22,7 +22,7 @@ const AboutPage = () => {
 
       <StaticImage
         alt="A picture of Timilehin Arigbede"
-        src="../images/profile.jpg"
+        src="../images/harrie.jpg"
         className={spaceImages}
       />
     </Layout>
