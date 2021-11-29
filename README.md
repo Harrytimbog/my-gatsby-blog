@@ -1,54 +1,48 @@
-<p align="center">
-  <a href="https://www.gatsbyjs.com/?utm_source=starter&utm_medium=readme&utm_campaign=minimal-starter">
-    <img alt="Gatsby" src="https://www.gatsbyjs.com/Gatsby-Monogram.svg" width="60" />
-  </a>
-</p>
-<h1 align="center">
-  Gatsby minimal starter
-</h1>
+## NEXTJS-BLOG
+A blog built with Gatsby
 
-## 🚀 Quick start
+# 🚀 Quick start
 
-1.  **Create a Gatsby site.**
+## Demo    
 
-    Use the Gatsby CLI to create a new site, specifying the minimal starter.
+[Run demo](https://mygatsbyblogmaster58629.gatsbyjs.io/)
 
-    ```shell
-    # create a new Gatsby site using the minimal starter
-    npm init gatsby
-    ```
+## Run Locally   
 
-2.  **Start developing.**
+Clone the project
 
-    Navigate into your new site’s directory and start it up.
+``` console
+git clone git@github.com:Harrytimbog/my-gatsby-blog.git
+```
 
-    ```shell
-    cd my-gatsby-site/
-    npm run develop
-    ```
+Go to the project directory
 
-3.  **Open the code and start customizing!**
+``` console
+cd my-gatby-blog
+```
 
-    Your site is now running at http://localhost:8000!
+Install dependencies
 
-    Edit `src/pages/index.js` to see your site update in real-time!
+``` console
+npm install
+# or
+yarn install
+```
 
-4.  **Learn more**
+First, run the development server:
 
-    - [Documentation](https://www.gatsbyjs.com/docs/?utm_source=starter&utm_medium=readme&utm_campaign=minimal-starter)
+```bash
+gatsby develop
+```
 
-    - [Tutorials](https://www.gatsbyjs.com/tutorial/?utm_source=starter&utm_medium=readme&utm_campaign=minimal-starter)
 
-    - [Guides](https://www.gatsbyjs.com/tutorial/?utm_source=starter&utm_medium=readme&utm_campaign=minimal-starter)
+Open [http://localhost:8000](http://localhost:8000) with your browser to see the result.
 
-    - [API Reference](https://www.gatsbyjs.com/docs/api-reference/?utm_source=starter&utm_medium=readme&utm_campaign=minimal-starter)
 
-    - [Plugin Library](https://www.gatsbyjs.com/plugins?utm_source=starter&utm_medium=readme&utm_campaign=minimal-starter)
+## Feedback  
 
-    - [Cheat Sheet](https://www.gatsbyjs.com/docs/cheat-sheet/?utm_source=starter&utm_medium=readme&utm_campaign=minimal-starter)
+Arigbede Timilehin Emmanuel - @Harrytimbog - harriemannie@gmail.com
 
-## 🚀 Quick start (Gatsby Cloud)
+Project Link: git@github.com:Harrytimbog/my-gatsby-blog.git
 
-Deploy this starter with one click on [Gatsby Cloud](https://www.gatsbyjs.com/cloud/):
-
-[<img src="https://www.gatsbyjs.com/deploynow.svg" alt="Deploy to Gatsby Cloud">](https://www.gatsbyjs.com/dashboard/deploynow?url=https://github.com/gatsbyjs/gatsby-starter-minimal)
+Demo Link: https://mygatsbyblogmaster58629.gatsbyjs.io/
