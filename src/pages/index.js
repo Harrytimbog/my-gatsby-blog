@@ -11,16 +11,18 @@ import {
 const IndexPage = () => {
   return (
     <Layout pageTitle="Home Page">
-      <p>This is my Blog built with Gatsby!!!</p>
-      <StaticImage
-        alt="A picture of coding"
-        src="../images/tim_kam.jpg"
-        className={spaceImages}
-      />
+      <h2>This is my Blog!!!</h2>
+      <p>
+        Live, love and learn. Try to have so much fun in this life. You can view my
+        profile on <a href="https://github.com/harrytimbog">Github</a> and on{" "}
+        <a href="https://www.linkedin.com/in/timilehin-arigbede-227449144/">
+          LinkedIn
+        </a>{" "} or visit the about page to learn more about me.
+      </p>
 
       <StaticImage
         alt="A picture of coding"
-        src="../images/coder.jpg"
+        src="../images/tim_kam.jpg"
         className={spaceImages}
       />
     </Layout>

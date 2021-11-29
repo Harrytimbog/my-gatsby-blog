@@ -20,12 +20,6 @@ const AboutPage = () => {
         src="../images/profile.jpg"
         className={spaceImages}
       />
-
-      <StaticImage
-        alt="A picture of Timilehin Arigbede"
-        src="../images/harrie.jpg"
-        className={spaceImages}
-      />
     </Layout>
   );
 };
