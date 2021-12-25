@@ -1,6 +1,5 @@
-# 🚀 Quick start
 
-## NEXTJS-BLOG
+# my-gatsby-blog
 A blog built with Gatsby
 
 ## Demo    
